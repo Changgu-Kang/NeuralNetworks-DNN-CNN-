@@ -1,0 +1,47 @@
+﻿  FCLayer.cpp
+d:\project\neuralnetwork\neuralnetwork\fclayer.cpp(125): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+d:\project\neuralnetwork\neuralnetwork\fclayer.cpp(147): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\fclayer.cpp(156): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NeuralNetwork.cpp
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(50): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(185): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(186): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(217): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(218): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(348): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(349): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(430): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(431): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(486): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(487): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(527): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(528): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(632): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(632): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(673): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(704): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(50): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(185): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(186): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(217): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(218): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(348): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(349): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(430): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(431): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(486): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(487): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(527): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(528): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(632): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(632): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(673): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\project\neuralnetwork\neuralnetwork\neuralnetwork.h(704): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+d:\project\neuralnetwork\neuralnetwork\baselayer.h(79): warning C4715: 'get_act_value': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  43 of 682 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    34 functions were new in current compilation
+    84 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  NeuralNetwork.vcxproj -> D:\project\NeuralNetwork\x64\Release\NeuralNetwork.exe
